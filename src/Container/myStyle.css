@@ -1,0 +1,75 @@
+
+#prd{
+  
+    float: left;
+    margin: auto;
+   
+    width: 100%;
+    height: auto;
+    
+    
+
+}
+
+#img{
+    height: 300px;
+    width: 100%;
+}
+p{
+    font-size: large;
+    font-style: unset;
+    font-weight: bold;
+}
+#marg{
+    height: 60px;
+}
+
+button{
+    margin: 2px;
+}
+#reg{
+    margin-top: 50px;
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+#login{
+    margin-top: 5px;
+    align-items: center;
+}
+#imgsing{
+    width: 40%;
+    height: 300px;
+}
+#add{
+    margin-top: 5px;
+    align-items: center;
+
+}
+#updateprd{
+    margin-top: 5px;
+    align-items: center;
+
+
+    
+}
+
+
+
+
+.nav-link {
+	color:purple;
+	font-size: 17px;
+    font-weight: bold;
+	text-decoration: none;
+
+}
+
+
+.hep
+{
+    height: 100%;
+    background: yellow;
+}
+
